@@ -1,4 +1,4 @@
-# Bonjour, moi c'est Nathan 👋
+# Bonjour, moi c'est Nathan !
 
 Développeur Web Fullstack · Laravel · Vue.js · React · React Three Fiber
 
