@@ -31,7 +31,6 @@ Scène low-poly PS2/Vaporwave dans React Three Fiber, navigation via un faux OS 
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nathanmar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanmar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
 ---
