@@ -17,16 +17,6 @@ Développeur Web Fullstack · Laravel · Vue.js · React · React Three Fiber
 
 ---
 
-## Projet en cours
-
-**🖥️ The Retro Desk** — Portfolio immersif first-person en 3D  
-Scène low-poly PS2/Vaporwave dans React Three Fiber, navigation via un faux OS Windows 98.  
-`React` `R3F` `GSAP` `Blender` `React Postprocessing`
-
-> *En cours de développement — bientôt en ligne*
-
----
-
 ## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanmar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
